@@ -7,5 +7,5 @@
 <ol><li>Download Electron Framework from <a href="https://github.com/electron/electron/releases">here</a></li>
   <li>Copy all contents into /resources/app/<all your contents></li>
   <li>Run Electron.exe</li></ol> <br><hr>
-  Note: Compile any changes before creating Apllication Distribution.
+  Note: Compile any changes before creating Application Distribution.
 
